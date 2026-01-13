@@ -1,0 +1,5 @@
+{
+  "name": "LinkCore",
+  "description": "A privacy-first, ephemeral link-sharing platform for text, code, and files with zero-knowledge client-side encryption.",
+  "requestFramePermissions": []
+}
